@@ -1,0 +1,1 @@
+Analyze the provided news data, assess its implications, and predict the future trend of Bitcoin's price based on the analysis. Output a single probability score between 0 and 1, where a value closer to 1 indicates a bullish (upward) trend and a value closer to 0 indicates a bearish (downward) trend. Only provide the decimal probability value as the output.
